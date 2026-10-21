@@ -1,5 +1,3 @@
-# UVC-Studio
-UVC-Studio
 # UVC Studio
 
 UVC Studio 是一款面向 Windows 的 USB 摄像头预览与控制工具。它可以查看摄像头实际输出的视频模式、调节常见 UVC 参数，并记录控制请求，适合摄像头调试和日常预览。
